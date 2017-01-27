@@ -16,10 +16,10 @@ Solution Integrator Experienced - Certified by Ericsson
 ## Topics
 ```
 JasmineJS Tutorial
-[ ] Home
-[ ] Overview
-[ ] Environment Setup
-[ ] Writing Text & Execution
+[x] Home
+[x] Overview
+[x] Environment Setup
+[x] Writing Text & Execution
 [ ] BDD Architecture
 [ ] Building Blocks of Test
 [ ] Matchers
